@@ -12,6 +12,8 @@
 + 了解UITableView,UINavigationController,UITabBarController,UIWebView
 + 重新装了一遍cocoapods和alamofire
 + 明天开始制作客户端
+
+
 ##2018-7-9
 + 装了一个swiftsoup来解析html
 + 看了一下怎么用swiftsoup，暂时还没太看懂，html解析也还没多大头绪
