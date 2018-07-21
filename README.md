@@ -33,3 +33,7 @@
 
 ## 2018-7-16
 + tab1简陋版制作完成，明天做下tab2的简陋版。。然后传下代码上来
+
+## 2018-7-21
++ tab1和2都可以看网页然后返回，问题是不知道怎么在uipickerview选择了东西之后重新申请数据刷新页面，然后点赞存储的也没做好，推不到这个库
++ GitHubtrending<https://github.com/jayx2000/GithubTrending>
